@@ -1,3 +1,5 @@
+This module is a fork of https://github.com/camptocamp/puppet-tomcat.
+
 ====================
 Tomcat Puppet module
 ====================
